@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: AppTaxi
+        psr4_prefix: AppTaxi
+        src_path: app
